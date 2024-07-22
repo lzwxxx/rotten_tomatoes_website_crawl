@@ -9,6 +9,5 @@ The selected data from reviews page as shown as follows are extracted:
 * Review text
 * Review score
 
-The crawled data is then stored in movie_reviews.csv:
-![image](https://user-images.githubusercontent.com/90826642/236810368-17f7e77d-d2d9-47fb-88bc-ad4529c461ab.png)
+The crawled data is then stored in movie_reviews.csv
 
